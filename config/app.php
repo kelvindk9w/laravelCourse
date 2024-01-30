@@ -15,7 +15,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Laravel'),
+    'name' => env('APP_NAME', 'Curso de Laravel 10.x'),
 
     /*
     |--------------------------------------------------------------------------
